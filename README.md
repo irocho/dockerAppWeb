@@ -5,7 +5,7 @@ Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 
 * Reiniciar docker:
 <code>sudo systemctl restart docker</code>
-* Comprobar se vai docker:
+* Comprobar se vai docker usando un contedor de proba:
 <code>sudo docker run hello-world</code>
 * Mirar os contedores que teño:
 <code> sudo docker ps -a</code>
