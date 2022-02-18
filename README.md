@@ -1,4 +1,4 @@
-<img style="float:left" height="64px"   src="/imaxes/logo.png" alt="" />
+<img style="float:left" height="64px"   src="https://irocho.files.wordpress.com/2012/10/rocho-950x264-e1350378609633.png" alt="" />
 
 # Docker para AppWeb
 Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
