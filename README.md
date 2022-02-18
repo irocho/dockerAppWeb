@@ -13,3 +13,6 @@ Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 <code>sudo docker start numeritoID</code>
 * Parar un contedor:
 <code>sudo docker stop numeritoID</code>
+
+[Consulta aquí o que imos traballando de docker en i-rochiño](https://irocho.wordpress.com/tag/docker/)
+
