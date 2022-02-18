@@ -1,3 +1,4 @@
+<img style="float:left" height="64px"   src="/imaxes/logo.png" alt="" />
 # Docker para AppWeb
 Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 
