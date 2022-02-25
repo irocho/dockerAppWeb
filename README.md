@@ -17,6 +17,8 @@ Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 <code>sudo docker stop numeritoID</code>
 * Borrar un contedor:
 <code>sudo docker rm -f numeritoID</code>
+* Información en tempo real dun contedor:
+<code>sudo docker logs -f numeritoID</code>
 
 [Consulta aquí o que imos traballando de docker en i-rochiño](https://irocho.wordpress.com/tag/docker/)
 
