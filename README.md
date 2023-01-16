@@ -3,15 +3,19 @@
 # Docker para AppWeb
 Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 
-* Reiniciar docker:
+### Reiniciar docker:
 <code>sudo systemctl restart docker</code>
-* Comprobar se vai docker usando un contedor de proba:
+### Comprobar se vai docker:
+<code>sudo systemctl status docker</code>
+### Usar un contedor de proba:
 <code>sudo docker run hello-world</code>
+### Cotilleos
 * Mirar os contedores que teño:
 <code> sudo docker ps -a</code>
 * Mirar os contedores que están activos:
 <code>sudo docker ps</code>
-* Arrancar un contedor:
+### Traballar con contedores
+* Arrancar un deses contedores:
 <code>sudo docker start numeritoID</code>
 * Parar un contedor:
 <code>sudo docker stop numeritoID</code>
