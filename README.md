@@ -14,7 +14,7 @@ Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 <code> sudo docker ps -a</code>
 * Mirar os contedores que están activos:
 <code>sudo docker ps</code>
-### Traballar con contedores
+### Traballar cun contedor:
 * Arrancar un deses contedores:
 <code>sudo docker start <i>numeritoID</i> </code>
 * Parar un contedor:
