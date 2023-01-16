@@ -16,13 +16,13 @@ Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 <code>sudo docker ps</code>
 ### Traballar con contedores
 * Arrancar un deses contedores:
-<code>sudo docker start numeritoID</code>
+<code>sudo docker start <i>numeritoID</i> </code>
 * Parar un contedor:
-<code>sudo docker stop numeritoID</code>
+<code>sudo docker stop <i>numeritoID</i> </code>
 * Borrar un contedor:
-<code>sudo docker rm -f numeritoID</code>
+<code>sudo docker rm -f <i>numeritoID</i> </code>
 * Información en tempo real dun contedor:
-<code>sudo docker logs -f numeritoID</code>
+<code>sudo docker logs -f <i>numeritoID</i> </code>
 
 [Consulta aquí o que imos traballando de docker en i-rochiño](https://irocho.wordpress.com/tag/docker/)
 
