@@ -23,6 +23,12 @@ Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 <code>sudo docker rm -f <i>numeritoID</i> </code>
 * Información en tempo real dun contedor:
 <code>sudo docker logs -f <i>numeritoID</i> </code>
+<code>sudo docker container inspect moodle | grep IPAddress</code></li>
 
 [Consulta aquí o que imos traballando de docker en i-rochiño](https://irocho.wordpress.com/tag/docker/)
 
+##Un chisco avanzado:
+
+<code>sudo apt-get install docker-compose</code>
+
+<code>sudo docker-compose up -d</code>
