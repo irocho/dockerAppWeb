@@ -28,7 +28,7 @@ Traballamos no módulo de Aplicacións Web 2º curso de SMR con Docker
 
 [Consulta aquí o que imos traballando de docker en i-rochiño](https://irocho.wordpress.com/tag/docker/)
 
-##Un chisco avanzado:
+## Un chisco avanzado:
 
 <code>sudo apt-get install docker-compose</code>
 
